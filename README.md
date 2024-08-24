@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @peterkorteweg
-- 👀 I’m interested in life long learning
-- 🌱 I’m currently learning Python
+**I am a quant who collects photobooks and mathematical puzzles.**
 
 <!---
 peterkorteweg/peterkorteweg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
